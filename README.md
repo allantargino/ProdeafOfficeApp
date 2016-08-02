@@ -14,9 +14,8 @@ Just go to Visual Studio and press F5 to run the project.
 
 ## Understand the code
 
-* [Home.html](QbAdd-inDotNetWeb/home.html) - Defines the task pane page on start up, and after the user has logged in.
-* [Home.js](QbAdd-inDotNetWeb/home.js) - Handles user interaction for sign in, sign out, get expenses, and insert chart. Here, the `dialogDisplayAsync` API is called to open a dialog window for the user to sign in to QuickBooks.
-
+* [Home.html](QbAdd-inDotNetWeb/home.html) - Defines the task pane page on start up. The Prodeaf Avatar is loaded here.
+* [Home.js](QbAdd-inDotNetWeb/home.js) - Handles ...
 
 ## Additional resources
 
