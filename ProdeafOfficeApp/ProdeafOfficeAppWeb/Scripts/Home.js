@@ -6,7 +6,7 @@
     // The initialize function must be run each time a new page is loaded
     Office.initialize = function (reason) {
         $(document).ready(function () {
-            app.initialize();
+            $('#startWlAuto')[0].click();
             $('#translate-button').click(translate);
         });
     };
@@ -17,14 +17,10 @@
             function (result) {
                 if (result.status === Office.AsyncResultStatus.Succeeded) {
                     var text = result.value;
-                    //var box = $('#traduzir');
-                    //box.text(text);
-                    //box.hide();
-                    //box[0].click();
-
                     wl.OpenText(text);
                 }
             }
         );
     }
+
 })();
