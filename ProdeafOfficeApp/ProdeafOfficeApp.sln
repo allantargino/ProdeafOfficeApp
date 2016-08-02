@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdeafOfficeApp", "ProdeafOfficeApp\ProdeafOfficeApp.csproj", "{0A149058-C72B-48B7-9004-115DBBAA68F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdeafOfficeAppWeb", "ProdeafOfficeAppWeb\ProdeafOfficeAppWeb.csproj", "{6A5E3D73-8E1B-474C-830E-E7F5F8DEB435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A149058-C72B-48B7-9004-115DBBAA68F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A149058-C72B-48B7-9004-115DBBAA68F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A149058-C72B-48B7-9004-115DBBAA68F1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0A149058-C72B-48B7-9004-115DBBAA68F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A149058-C72B-48B7-9004-115DBBAA68F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A149058-C72B-48B7-9004-115DBBAA68F1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6A5E3D73-8E1B-474C-830E-E7F5F8DEB435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5E3D73-8E1B-474C-830E-E7F5F8DEB435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5E3D73-8E1B-474C-830E-E7F5F8DEB435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5E3D73-8E1B-474C-830E-E7F5F8DEB435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
