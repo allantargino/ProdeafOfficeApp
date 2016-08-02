@@ -16,7 +16,7 @@ Just go to Visual Studio and press F5 to run the project.
 
 * [Home.html](ProdeafOfficeApp/ProdeafOfficeAppWeb/App/Home.html) - Defines the task pane page on start up. The Prodeaf Avatar is loaded here.
 * [Home.js](ProdeafOfficeApp/ProdeafOfficeAppWeb/Scripts/Home.js) - Handles the interaction with the Office UI and other events.
-* [Wl-min-force-webgl.js](ProdeafOfficeApp/ProdeafOfficeAppWeb/Scripts/wl-min-force-webgl.js) - Calls the Prodeaf API and renders the Avatar using WebGL.
+* [wl-min-force-webgl.js](ProdeafOfficeApp/ProdeafOfficeAppWeb/Scripts/wl-min-force-webgl.js) - Calls the Prodeaf API and renders the Avatar using WebGL.
 
 ## Additional resources
 
