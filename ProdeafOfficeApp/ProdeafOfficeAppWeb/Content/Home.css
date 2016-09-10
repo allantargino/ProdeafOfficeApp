@@ -1,67 +1,14 @@
-﻿/* Page-specific styling */
-
-/*Avatar*/
-
-
-/*#avatarArea {
-    height: 420px;
-    overflow: hidden;
-    position: absolute;
-    right: 40px;
-    width: 340px;
+﻿.padding{
+   padding-left:10px;
 }
 
-#wlautoPlayer {
-    width: 100% !important;
-    height: 100% !important;
-    position: absolute;
-    top: 0;
-    right: 25000px;
+#wlautoContainer{
+    left: 30px!important;
+    top: 150px!important; 
+    position: relative!important;
+    margin-left: 0!important;
 }
 
-.loaded #wlautoPlayer {
-    right: 0;
+#startWlAuto{
+    display:none!important;
 }
-
-#loadingProdeafWeb {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: #e7e7e7;
-}
-
-.loaded #loadingProdeafWeb {
-    display: none;
-}
-
-#wlautoPlayer canvas, #wlautoPlayer embed {
-    width: 100% !important;
-    height: 100% !important;
-}
-
-#wlautoContainer, #startWlAuto {
-    display: none !important;
-}
-
-#loadingProdeafWebContent {
-    text-align: center;
-    position: relative;
-    top: 50%;
-    transform: translate(0,-50%);
-}
-
-#btnGetTranslation {
-    vertical-align: middle;
-    margin-left: 5px;
-}
-
-.menu_item{
-    text-decoration: none;
-    padding-top: 6%;
-}
-
-#loadingWlAuto{
-    display:none !important;
-}*/

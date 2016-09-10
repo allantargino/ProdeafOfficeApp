@@ -71,6 +71,8 @@
     <Content Include="Content\Home.css" />
     <Content Include="Content\webgl_avatar.css" />
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\prodeafofficeapp - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\prodeafofficeapp - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

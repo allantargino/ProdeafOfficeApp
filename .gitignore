@@ -243,3 +243,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/ProdeafOfficeApp/ProdeafOfficeAppWeb/Properties/PublishProfiles/prodeafofficeapp - Web Deploy.pubxml
+/ProdeafOfficeApp/ProdeafOfficeAppWeb/Properties/PublishProfiles/prodeafofficeapp - FTP.pubxml
+/ProdeafOfficeApp/ProdeafOfficeAppWeb/Properties/PublishProfiles
